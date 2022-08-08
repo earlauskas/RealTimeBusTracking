@@ -37,7 +37,7 @@ const busStops = [
     // Use counter to access bus stops in the array busStops
     // Make sure you call move() after you increment the counter.
   setTimeout(() => {
-    if (counter >= bustStope.length) return;
+    if (counter >= busStops.length) return;
     marker.setLngLat(busStops[counter]);
     counter++;
     move();

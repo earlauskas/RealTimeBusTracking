@@ -5,4 +5,4 @@ This was my first time working with an access Token and integrating the MapBox J
 ## How to Run
 ### To run this activity, simply load the HTML file onto your browser. Click the button that shows the stops between MIT and Harvard. Make sure you have this loaded in a full browser window for optimal results.
 ## Roadmap of Future Improvements
-###  would like to continute to add bus stops along the entire #1 bus route for the city of Boston. Then I would like to continue working to create stops along my commute to work.
+### I would like to continute to add bus stops along the entire #1 bus route for the city of Boston. Then I would like to continue working to create stops along my commute to work.

@@ -1,4 +1,4 @@
-# BusTracking <img src= "bus.png" width='100'/>
+# BusTracking 
 ## Description of Project
 ### This activity focuses on pulling in a map of Cambridge from MapBox and adding custom markers to it along the #1 bus route between Harvard and MIT. 
 This was my first time working with an access Token and integrating the MapBox JS library.
